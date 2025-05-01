@@ -26,7 +26,7 @@ author:
   name             : "HuminBir"
   pronouns         : # example: "she/her"  
   bio              : "a student majoring Stat at CUPK."
-  location         : "Location"
+  location         : 
   employer         : 
   uri              : 
   email            : "lxl152798@gmail.com" 
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "github.com/HuminBir"
+  github           : "https://github.com/HuminBir"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
