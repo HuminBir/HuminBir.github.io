@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third year undergraduate student from Department of Mathematics, China University of Petroleum (Beijing).
+I'm a third year undergraduate student majoring in Statistics in the Department of Mathematics at China University of Petroleum (Beijing).
